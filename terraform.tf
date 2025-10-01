@@ -4,5 +4,5 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "test" {
 	name     = "test-resource-group"
-	location = "East US"
+	location = "East US2"
 }
